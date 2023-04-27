@@ -1,0 +1,15 @@
+nav,
+.offcanvas {
+  background-color: #d1f0f7;
+}
+.navbar-toggler {
+  border: none;
+}
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}
+@media (max-width: 768px) {
+  .navbar-nav > li:hover {
+    background-color: #0dcaf0; }
+}

@@ -1,0 +1,23 @@
+body {
+    background-image: url('reloj.jpeg');
+  }
+  
+  h1 {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #dd00ff;
+  }
+  
+  p {
+    font-family: Verdana, sans-serif;
+     background-color: #51e2de;
+    color: #ff5500;
+  }
+  
+  #tiemporestante {
+    border: 6px solid #c545c7;
+    background-color: #51e2de;
+    padding: 20px;
+    margin-top: 30px;
+  }
+  
